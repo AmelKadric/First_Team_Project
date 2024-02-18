@@ -6,5 +6,7 @@ public class HelloClass {
 
         System.out.println("Hey Amel, it's Adam");
 
+        System.out.println("I can still edit in here");
+
     }
 }
