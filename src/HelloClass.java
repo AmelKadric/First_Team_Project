@@ -4,5 +4,7 @@ public class HelloClass {
 
         System.out.println("Hey Mohammad, Aisulu & Adam.");
 
+        System.out.println("Hey Amel, it's Adam");
+
     }
 }
