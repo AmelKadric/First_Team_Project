@@ -8,5 +8,7 @@ public class HelloClass {
 
         System.out.println("hello guys this is Mohammad");
 
+        System.out.println("is it working guys , Mohammad");
+
     }
 }
